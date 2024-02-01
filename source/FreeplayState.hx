@@ -150,7 +150,7 @@ class FreeplayState extends MusicBeatState
         bg.animation.addByPrefix('idle', 'background idle', 30, true);
         bg.animation.play('idle');
         bg.antialiasing = ClientPrefs.globalAntialiasing;
-	bg.scale.set(4, 4);
+    	bg.scale.set(4, 4);
         add(bg);
         bg.screenCenter();
         
@@ -163,31 +163,30 @@ class FreeplayState extends MusicBeatState
 
 		image = new FlxSprite().loadGraphic(Paths.image('fpmenu/stage/' + songs[curSelected].songName));
 		image.antialiasing = ClientPrefs.globalAntialiasing;
-		image.scale.set(2, 2)
+		image.scale.set(2, 2);
 		add(image);
 		image.screenCenter();
 
-        stagebox = new FlxSprite().loadGraphic(Paths.image('fpmenu/stageBox'));
-		stagebox.antialiasing = ClientPrefs.globalAntialiasing;
-		stagebox.scale.set('2, 2)
+       stagebox = new FlxSprite().loadGraphic(Paths.image('fpmenu/stageBox'));
+	    	stagebox.antialiasing = ClientPrefs.globalAntialiasing;
+	    	stagebox.scale.set(2, 2);
         add(stagebox);
         stagebox.screenCenter();
 
 		if (!ClientPrefs.lowQuality)
 			{
-				//stagebox_L = new FlxSprite().loadGraphicFromSprite(stagebox);
-				//stagebox_L.alpha = 0.6;
-                                //stagebox_L.scale.set(2, 2)
-				//)/add(stagebox_L);
-				//stagebox_L.x = stagebox.x - 500;
-				//stagebox_L.setGraphicSize(Std.int(stagebox_L.width * 0.45));
-
-				//stagebox_R = new FlxSprite().loadGraphicFromSprite(stagebox);
-				//stagebox_R.alpha = 0.6;
-//stagebox_R.scale.set(2, 2)
-			///	add(stagebox_R);
-		//////		stagebox_R.x = stagebox.x + 500;
-			///	stagebox_R.setGraphicSize(Std.int(stagebox_R.width * 0.45));
+				stagebox_L = new FlxSprite().loadGraphicFromSprite(stagebox);
+				stagebox_L.alpha = 0.6;
+        //stagebox_L.scale.set(2, 2);
+				add(stagebox_L);
+				stagebox_L.x = stagebox.x - 500;
+				stagebox_L.setGraphicSize(Std.int(stagebox_L.width * 0.9));
+			  stagebox_R = new FlxSprite().loadGraphicFromSprite(stagebox);
+			  stagebox_R.alpha = 0.6;
+        //stagebox_R.scale.set(2, 2);
+		  	add(stagebox_R);
+				stagebox_R.x = stagebox.x + 500;
+			  stagebox_R.setGraphicSize(Std.int(stagebox_R.width * 0.9));
 
 				arrowL = new FlxSprite().loadGraphic(Paths.image('fpmenu/arrowL'));
 				arrowL.antialiasing = ClientPrefs.globalAntialiasing;
