@@ -150,6 +150,7 @@ class FreeplayState extends MusicBeatState
         bg.animation.addByPrefix('idle', 'background idle', 30, true);
         bg.animation.play('idle');
         bg.antialiasing = ClientPrefs.globalAntialiasing;
+	bg.scale.set(4,4);
         add(bg);
         bg.screenCenter();
         
