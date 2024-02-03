@@ -97,6 +97,7 @@ class PACreditsState extends MusicBeatState
         bg.animation.addByPrefix('idle', 'background idle', 30, true);
         bg.animation.play('idle');
         bg.antialiasing = ClientPrefs.globalAntialiasing;
+	bg.scale.set(4, 4)
         add(bg);
         bg.screenCenter();
 
@@ -124,7 +125,7 @@ class PACreditsState extends MusicBeatState
 
 		creditSpr = new FlxSprite(0, 0);
 		add(creditSpr);
-		creditSpr.scale.set(0.4, 0.4);
+		//creditSpr.scale.set(0.4, 0.4);
 		creditSpr.updateHitbox();
 		creditSpr.screenCenter();
 		creditSpr.x -= 80;
@@ -235,7 +236,7 @@ class PACreditsState extends MusicBeatState
 	var holdTime:Float = 0;
 	override function update(elapsed:Float)
 	{
-		creditSpr.loadGraphic(Paths.returnGraphic('pacreditarts/' + people[curSelected][1] + FlxG.random.int(1, 2), null, true));
+		creditSpr.loadGraphic(Paths.returnGraphic('pacreditarts/' + people[curSelected][1] + FlxG.random.int(1, 1), null, true));
 
 		if (FlxG.random.int(0, 1) < 0.01) 
 			{
