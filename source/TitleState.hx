@@ -610,12 +610,13 @@ class TitleState extends MusicBeatState
 					addMoreText('Pibby');
 				// credTextShit.visible = true;
 				case 15:
-					addMoreText(''); // credTextShit.text += '\nFunkin';
-
-				case 16:
 					addMoreText('Apocalypse'); // credTextShit.text += '\nFunkin';
-
+				case 16:
+				        addMoreText('');
 				case 17:
+					addMoreText('optimized by SangMzG'); // credTextShit.text += '\nFunkin';
+
+				case 18:
 					skipIntro();
 			}
 		}
