@@ -97,7 +97,8 @@ class PACreditsState extends MusicBeatState
         bg.animation.addByPrefix('idle', 'background idle', 30, true);
         bg.animation.play('idle');
         bg.antialiasing = ClientPrefs.globalAntialiasing;
-	bg.scale.set(4, 4);
+        bg.scale.set(4, 4);
+        bg.updateHitbox();
         add(bg);
         bg.screenCenter();
 
@@ -125,8 +126,8 @@ class PACreditsState extends MusicBeatState
 
 		creditSpr = new FlxSprite(0, 0);
 		add(creditSpr);
-		creditSpr.scale.set(1, 1);
-		creditSpr.updateHitbox();
+		//creditSpr.scale.set(0.4, 0.4);
+		//creditSpr.updateHitbox();
 		creditSpr.screenCenter();
 		creditSpr.x -= 80;
 		creditSpr.y -= 800;
@@ -236,7 +237,7 @@ class PACreditsState extends MusicBeatState
 	var holdTime:Float = 0;
 	override function update(elapsed:Float)
 	{
-		creditSpr.loadGraphic(Paths.returnGraphic('pacreditarts/' + people[curSelected][1], null, true));
+		creditSpr.loadGraphic(Paths.returnGraphic('pacreditarts/' + people[curSelected][1] + FlxG.random.int(1, 2), null, true));
 
 		if (FlxG.random.int(0, 1) < 0.01) 
 			{
@@ -273,8 +274,8 @@ class PACreditsState extends MusicBeatState
 		}
 
 		progress = FlxMath.lerp(progress, curSelected, CoolUtil.boundTo(elapsed * 20, 0, 1));
-		creditSpr.scale.x = FlxMath.lerp(creditSpr.scale.x, 1, CoolUtil.boundTo(elapsed * 3.8, 0, 1));
-		creditSpr.scale.y = FlxMath.lerp(creditSpr.scale.y, 1, CoolUtil.boundTo(elapsed * 3.8, 0, 1));
+		creditSpr.scale.x = FlxMath.lerp(creditSpr.scale.x, 0.4, CoolUtil.boundTo(elapsed * 3.8, 0, 1));
+		creditSpr.scale.y = FlxMath.lerp(creditSpr.scale.y, 0.4, CoolUtil.boundTo(elapsed * 3.8, 0, 1));
 	}
 
 	var targetY:Float;
