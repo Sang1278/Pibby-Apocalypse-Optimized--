@@ -2803,7 +2803,7 @@ class PlayState extends MusicBeatState
 			if (gf != null)
                 iconP3.x = 530 + 75;
 			scoreTxt.y = healthBar.y + 40;
-			scoreTxt.x = pibbyHealthbar.x - 350;
+			scoreTxt.x = pibbyHealthbar.x - 350 - 140;
         } 
 		else		
 		{
