@@ -3,7 +3,7 @@ function onCreate()
 		bg = new FlxSprite(400, 350);
 		bg.loadGraphic(retrieveAsset('images/bg', 'image'));
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
-		bg.setGraphicSize(Std.int(bg.width * 1.7));
+		bg.setGraphicSize(Std.int(bg.width * 3.4));
 		bg.updateHitbox();
 		bg.active = false;
 	
@@ -60,10 +60,20 @@ function onCreate()
 		}
 	}
 	
+function onCreatePost()
+{
+  
+}	
+	
 	function onSongStart()
 		{
 			if (PlayState.curSong == 'Mindless')
 				{
+				    PlayState.finnT.scale.set(2 , 2);
+				    PlayState.finnT.x += 430;
+			    	//PlayState.finnT.x -= 190;
+				    PlayState.finnT.y += 220;
+				
 					bg.visible = false;
 					if (!ClientPrefs.lowQuality || !ClientPrefs.flashing) dark.visible = false;
 					if (!ClientPrefs.lowQuality || !ClientPrefs.flashing) light.visible = false;
