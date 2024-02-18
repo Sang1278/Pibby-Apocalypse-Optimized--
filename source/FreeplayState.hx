@@ -282,6 +282,7 @@ class FreeplayState extends MusicBeatState
         noHeroIntro.frames = Paths.getSparrowAtlas('noherocutscenefirst', 'shared');
         noHeroIntro.animation.addByPrefix('finnJumpscareMomento', 'play003', 24, true);
         noHeroIntro.animation.play('finnJumpscareMomento',true);
+	noHeroIntro.scale.set(4, 4);
         noHeroIntro.scrollFactor.set();
 
         add(noHeroIntro);
