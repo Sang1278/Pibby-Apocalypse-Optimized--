@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="logoPeb.png" width="2395" height="2186">
+	<SubTexture name="Bumping0000" x="1" y="1" width="1078" height="442" frameX="-74" frameY="-48" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0001" x="1181" y="485" width="1213" height="525" frameX="-5" frameY="-2" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0002" x="1181" y="485" width="1213" height="525" frameX="-5" frameY="-2" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0003" x="1" y="485" width="1177" height="504" frameX="-17" frameY="-13" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0004" x="1" y="485" width="1177" height="504" frameX="-17" frameY="-13" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0005" x="1082" y="1" width="1135" height="481" frameX="-29" frameY="-29" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0006" x="1082" y="1" width="1135" height="481" frameX="-29" frameY="-29" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0007" x="1" y="992" width="1104" height="535" frameX="-37" frameY="-34" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0008" x="1" y="992" width="1104" height="535" frameX="-37" frameY="-34" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0009" x="1108" y="1013" width="1024" height="566" frameX="-111" frameY="-36" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0010" x="1108" y="1013" width="1024" height="566" frameX="-111" frameY="-36" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0011" x="1" y="1530" width="948" height="594" frameX="-187" frameY="-37" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0012" x="1" y="1530" width="948" height="594" frameX="-187" frameY="-37" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0013" x="952" y="1582" width="948" height="603" frameX="-187" frameY="-37" frameWidth="1227" frameHeight="640"/>
+	<SubTexture name="Bumping0014" x="952" y="1582" width="948" height="603" frameX="-187" frameY="-37" frameWidth="1227" frameHeight="640"/>
+</TextureAtlas>
