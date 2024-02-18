@@ -237,7 +237,7 @@ class PACreditsState extends MusicBeatState
 	var holdTime:Float = 0;
 	override function update(elapsed:Float)
 	{
-		creditSpr.loadGraphic(Paths.returnGraphic('pacreditarts/' + people[curSelected][1] + FlxG.random.int(1, 2), null, true));
+		creditSpr.loadGraphic(Paths.returnGraphic('pacreditarts/' + people[curSelected][1] + 1, null, true));
 
 		if (FlxG.random.int(0, 1) < 0.01) 
 			{
@@ -274,8 +274,8 @@ class PACreditsState extends MusicBeatState
 		}
 
 		progress = FlxMath.lerp(progress, curSelected, CoolUtil.boundTo(elapsed * 20, 0, 1));
-		creditSpr.scale.x = FlxMath.lerp(creditSpr.scale.x, 0.4, CoolUtil.boundTo(elapsed * 3.8, 0, 1));
-		creditSpr.scale.y = FlxMath.lerp(creditSpr.scale.y, 0.4, CoolUtil.boundTo(elapsed * 3.8, 0, 1));
+		creditSpr.scale.x = FlxMath.lerp(creditSpr.scale.x, 1, CoolUtil.boundTo(elapsed * 3.8, 0, 1));
+		creditSpr.scale.y = FlxMath.lerp(creditSpr.scale.y, 1, CoolUtil.boundTo(elapsed * 3.8, 0, 1));
 	}
 
 	var targetY:Float;
