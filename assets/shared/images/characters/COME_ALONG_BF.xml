@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="COME_ALONG_BF.png" width="1821" height="1288">
+  <SubTexture name="Bf Down0" x="0" y="0"  width="263.5" height="313.5" frameX="-0" frameY="-0" frameWidth="263.5" frameHeight="313.5"/>
+  <SubTexture name="Bf Down3" x="263.5" y="0"  width="255" height="317" frameX="-0" frameY="-0" frameWidth="255" frameHeight="317"/>
+  <SubTexture name="Bf Idle0" x="518.5" y="0"  width="263.5" height="317.5" frameX="-0" frameY="-0" frameWidth="263.5" frameHeight="317.5"/>
+  <SubTexture name="Bf Up0" x="782" y="0"  width="255" height="317.5" frameX="-0" frameY="-0" frameWidth="255" frameHeight="317.5"/>
+  <SubTexture name="Bf U Miss0" x="1037" y="0"  width="265" height="318" frameX="-0" frameY="-0" frameWidth="265" frameHeight="318"/>
+  <SubTexture name="Bf Right0" x="1302" y="0"  width="243" height="318.5" frameX="-0" frameY="-0" frameWidth="243" frameHeight="318.5"/>
+  <SubTexture name="Bf Right1" x="1545" y="0"  width="249" height="318.5" frameX="-0" frameY="-0" frameWidth="249" frameHeight="318.5"/>
+  <SubTexture name="Bf Right2" x="0" y="313.5"  width="250.5" height="318.5" frameX="-0" frameY="-0" frameWidth="250.5" frameHeight="318.5"/>
+  <SubTexture name="Bf Right3" x="250.5" y="317"  width="244.5" height="318.5" frameX="-0" frameY="-0" frameWidth="244.5" frameHeight="318.5"/>
+  <SubTexture name="Bf Up3" x="495" y="317.5"  width="255" height="318.5" frameX="-0" frameY="-0" frameWidth="255" frameHeight="318.5"/>
+  <SubTexture name="Bf Up1" x="750" y="317.5"  width="252.5" height="319" frameX="-0" frameY="-0" frameWidth="252.5" frameHeight="319"/>
+  <SubTexture name="Bf D Miss1" x="1002.5" y="318"  width="279.5" height="319.5" frameX="-0" frameY="-0" frameWidth="279.5" frameHeight="319.5"/>
+  <SubTexture name="Bf Down2" x="1282" y="318.5"  width="252.5" height="320" frameX="-0" frameY="-0" frameWidth="252.5" frameHeight="320"/>
+  <SubTexture name="Bf Idle3" x="1534.5" y="318.5"  width="258.5" height="320" frameX="-0" frameY="-0" frameWidth="258.5" frameHeight="320"/>
+  <SubTexture name="Bf Left3" x="0" y="632"  width="247" height="320.5" frameX="-0" frameY="-0" frameWidth="247" frameHeight="320.5"/>
+  <SubTexture name="Bf Down1" x="247" y="636"  width="257" height="320.5" frameX="-0" frameY="-0" frameWidth="257" frameHeight="320.5"/>
+  <SubTexture name="Bf Left0" x="504" y="636.5"  width="253" height="321" frameX="-0" frameY="-0" frameWidth="253" frameHeight="321"/>
+  <SubTexture name="Bf Left1" x="757" y="637.5"  width="249" height="321" frameX="-0" frameY="-0" frameWidth="249" frameHeight="321"/>
+  <SubTexture name="Bf Left2" x="1006" y="637.5"  width="247" height="321" frameX="-0" frameY="-0" frameWidth="247" frameHeight="321"/>
+  <SubTexture name="Bf D Miss0" x="1253" y="638.5"  width="284.5" height="321.5" frameX="-0" frameY="-0" frameWidth="284.5" frameHeight="321.5"/>
+  <SubTexture name="Bf R Miss0" x="1537.5" y="638.5"  width="283.5" height="321.5" frameX="-0" frameY="-0" frameWidth="283.5" frameHeight="321.5"/>
+  <SubTexture name="Bf Up2" x="0" y="952.5"  width="245" height="324" frameX="-0" frameY="-0" frameWidth="245" frameHeight="324"/>
+  <SubTexture name="Bf Idle1" x="245" y="956.5"  width="255" height="323" frameX="-0" frameY="-0" frameWidth="255" frameHeight="323"/>
+  <SubTexture name="Bf Idle2" x="500" y="957.5"  width="254" height="323.5" frameX="-0" frameY="-0" frameWidth="254" frameHeight="323.5"/>
+  <SubTexture name="Bf R Miss1" x="754" y="958.5"  width="247" height="325.5" frameX="-0" frameY="-0" frameWidth="247" frameHeight="325.5"/>
+  <SubTexture name="Bf U Miss1" x="1001" y="958.5"  width="251" height="326" frameX="-0" frameY="-0" frameWidth="251" frameHeight="326"/>
+  <SubTexture name="Bf L Miss0" x="1252" y="960"  width="253.5" height="327.5" frameX="-0" frameY="-0" frameWidth="253.5" frameHeight="327.5"/>
+  <SubTexture name="Bf L Miss1" x="1505.5" y="960"  width="314" height="328" frameX="-0" frameY="-0" frameWidth="314" frameHeight="328"/>
+</TextureAtlas>

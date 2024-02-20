@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Finn_Tranformation.png" width="2480" height="2534">
+	<SubTexture name="FINN-CUTSCENE0000" x="2004.5" y="0.5" width="226.5" height="353" frameX="-181" frameY="-56" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0001" x="2004.5" y="0.5" width="226.5" height="353" frameX="-181" frameY="-56" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0002" x="0.5" y="686" width="241.5" height="431" frameX="-320" frameY="-27" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0003" x="0.5" y="686" width="241.5" height="431" frameX="-320" frameY="-27" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0004" x="0.5" y="1143" width="311" height="440" frameX="-423" frameY="-17" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0005" x="0.5" y="1143" width="311" height="440" frameX="-423" frameY="-17" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0006" x="332.5" y="334" width="350" height="391.5" frameX="-517.5" frameY="-65.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0007" x="332.5" y="334" width="350" height="391.5" frameX="-517.5" frameY="-65.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0008" x="1191" y="750.5" width="407" height="420" frameX="-355.5" frameY="-38" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0009" x="1191" y="750.5" width="407" height="420" frameX="-355.5" frameY="-38" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0010" x="828.5" y="1615" width="467.5" height="458" frameX="-250" frameY="-1.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0011" x="828.5" y="1615" width="467.5" height="458" frameX="-250" frameY="-1.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0012" x="584" y="2074.5" width="546.5" height="459" frameX="-119.5" frameY="-0" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0013" x="584" y="2074.5" width="546.5" height="459" frameX="-119.5" frameY="-0" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0014" x="0.5" y="2066" width="582" height="458" frameX="-9.5" frameY="-0" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0015" x="0.5" y="2066" width="582" height="458" frameX="-9.5" frameY="-0" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0016" x="763" y="748.5" width="426.5" height="417.5" frameX="-0" frameY="-39.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0017" x="763" y="748.5" width="426.5" height="417.5" frameX="-0" frameY="-39.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0018" x="1518.5" y="1231" width="716.5" height="455.5" frameX="-109.5" frameY="-1.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0019" x="1518.5" y="1231" width="716.5" height="455.5" frameX="-109.5" frameY="-1.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0020" x="0.5" y="1609" width="826.5" height="455.5" frameX="-62.5" frameY="-1.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0021" x="0.5" y="1609" width="826.5" height="455.5" frameX="-62.5" frameY="-1.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0022" x="313" y="1167.5" width="721.5" height="440" frameX="-73" frameY="-16.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0023" x="313" y="1167.5" width="721.5" height="440" frameX="-73" frameY="-16.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0024" x="1036" y="1172" width="481" height="441.5" frameX="-212" frameY="-15.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0025" x="1036" y="1172" width="481" height="441.5" frameX="-212" frameY="-15.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0026" x="1378.5" y="346.5" width="351.5" height="402.5" frameX="-283.5" frameY="-68" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0027" x="1378.5" y="346.5" width="351.5" height="402.5" frameX="-283.5" frameY="-68" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0028" x="1731.5" y="355" width="369.5" height="411.5" frameX="-275" frameY="-50" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0029" x="1012.5" y="346" width="364.5" height="401" frameX="-276" frameY="-57" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0030" x="2232.5" y="0.5" width="247" height="377.5" frameX="-329.5" frameY="-80" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0031" x="2232.5" y="0.5" width="247" height="377.5" frameX="-329.5" frameY="-80" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0032" x="1781.5" y="0.5" width="221.5" height="345" frameX="-339" frameY="-114" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0033" x="1781.5" y="0.5" width="221.5" height="345" frameX="-339" frameY="-114" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0034" x="719.5" y="0.5" width="217" height="336.5" frameX="-341" frameY="-121.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0035" x="719.5" y="0.5" width="217" height="336.5" frameX="-341" frameY="-121.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0036" x="938" y="0.5" width="217" height="338.5" frameX="-341" frameY="-119" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0037" x="938" y="0.5" width="217" height="338.5" frameX="-341" frameY="-119" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0038" x="539.5" y="0.5" width="178.5" height="332" frameX="-344" frameY="-125.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0039" x="539.5" y="0.5" width="178.5" height="332" frameX="-344" frameY="-125.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0040" x="0.5" y="0.5" width="182.5" height="319" frameX="-344.5" frameY="-138.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0041" x="0.5" y="0.5" width="182.5" height="319" frameX="-344.5" frameY="-138.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0042" x="184.5" y="0.5" width="175.5" height="320" frameX="-351" frameY="-137.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0043" x="184.5" y="0.5" width="175.5" height="320" frameX="-351" frameY="-137.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0044" x="361.5" y="0.5" width="176.5" height="321.5" frameX="-350" frameY="-136" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0045" x="361.5" y="0.5" width="176.5" height="321.5" frameX="-350" frameY="-136" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0046" x="1297.5" y="1688" width="889" height="455.5" frameX="-0" frameY="-1.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0047" x="1297.5" y="1688" width="889" height="455.5" frameX="-0" frameY="-1.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0048" x="243.5" y="735" width="518" height="406.5" frameX="-166.5" frameY="-51" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0049" x="243.5" y="735" width="518" height="406.5" frameX="-166.5" frameY="-51" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0050" x="1879.5" y="794.5" width="532" height="435" frameX="-161" frameY="-22.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0051" x="1879.5" y="794.5" width="532" height="435" frameX="-161" frameY="-22.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0052" x="1599.5" y="768" width="278.5" height="436.5" frameX="-348.5" frameY="-21" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0053" x="1599.5" y="768" width="278.5" height="436.5" frameX="-348.5" frameY="-21" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0054" x="2102.5" y="379.5" width="297.5" height="413.5" frameX="-349.5" frameY="-43.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0055" x="2102.5" y="379.5" width="297.5" height="413.5" frameX="-349.5" frameY="-43.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0056" x="684" y="340.5" width="327" height="393" frameX="-325" frameY="-64" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0057" x="684" y="340.5" width="327" height="393" frameX="-325" frameY="-64" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0058" x="0.5" y="322" width="330.5" height="362.5" frameX="-329" frameY="-94.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0059" x="0.5" y="322" width="330.5" height="362.5" frameX="-329" frameY="-94.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0060" x="1156.5" y="0.5" width="311.5" height="344" frameX="-347.5" frameY="-113" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0061" x="1156.5" y="0.5" width="311.5" height="344" frameX="-347.5" frameY="-113" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0062" x="1469.5" y="0.5" width="310.5" height="344.5" frameX="-349.5" frameY="-112.5" frameWidth="889" frameHeight="470.5"/>
+	<SubTexture name="FINN-CUTSCENE0063" x="1469.5" y="0.5" width="310.5" height="344.5" frameX="-349.5" frameY="-112.5" frameWidth="889" frameHeight="470.5"/>
+</TextureAtlas>

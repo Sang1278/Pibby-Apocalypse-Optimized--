@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Pibby_Angy.png" width="1867" height="2114">
+	<SubTexture name="Cmon 10000" x="1062.75" y="345.75" width="207" height="176.25" rotated="true" frameX="-148.5" frameY="-85.5" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10001" x="1062.75" y="345.75" width="207" height="176.25" rotated="true" frameX="-148.5" frameY="-85.5" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10002" x="1272" y="348" width="212.25" height="176.25" rotated="true" frameX="-146.25" frameY="-80.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10003" x="1486.5" y="348" width="212.25" height="176.25" rotated="true" frameX="-146.25" frameY="-80.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10004" x="0.75" y="513.75" width="192" height="176.25" rotated="true" frameX="-96" frameY="-99.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10005" x="0.75" y="513.75" width="192" height="176.25" rotated="true" frameX="-96" frameY="-99.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10006" x="223.5" y="700.5" width="192.75" height="180" rotated="true" frameX="-78.75" frameY="-99.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10007" x="418.5" y="701.25" width="192.75" height="180" rotated="true" frameX="-78.75" frameY="-99.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10008" x="0.75" y="1251.75" width="192.75" height="188.25" frameX="-63" frameY="-105.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10009" x="0.75" y="1251.75" width="192.75" height="188.25" frameX="-63" frameY="-105.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10010" x="1158.75" y="1072.5" width="193.5" height="187.5" frameX="-65.25" frameY="-107.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10011" x="1158.75" y="1072.5" width="193.5" height="187.5" frameX="-65.25" frameY="-107.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10012" x="1668.75" y="1263.75" width="192" height="192" frameX="-70.5" frameY="-101.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10013" x="1668.75" y="1263.75" width="192" height="192" frameX="-70.5" frameY="-101.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10014" x="434.25" y="1255.5" width="195.75" height="189" rotated="true" frameX="-80.25" frameY="-97.5" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10015" x="434.25" y="1255.5" width="195.75" height="189" rotated="true" frameX="-80.25" frameY="-97.5" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10016" x="1354.5" y="1073.25" width="198" height="187.5" rotated="true" frameX="-87.75" frameY="-95.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10017" x="1354.5" y="1073.25" width="198" height="187.5" rotated="true" frameX="-87.75" frameY="-95.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10018" x="0.75" y="879.75" width="198" height="181.5" rotated="true" frameX="-96.75" frameY="-95.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10019" x="0.75" y="879.75" width="198" height="181.5" rotated="true" frameX="-96.75" frameY="-95.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10020" x="195" y="520.5" width="196.5" height="176.25" rotated="true" frameX="-103.5" frameY="-96.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10021" x="195" y="520.5" width="196.5" height="176.25" rotated="true" frameX="-103.5" frameY="-96.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10022" x="998.25" y="168.75" width="195" height="174.75" rotated="true" frameX="-109.5" frameY="-98.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10023" x="998.25" y="168.75" width="195" height="174.75" rotated="true" frameX="-109.5" frameY="-98.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10024" x="1195.5" y="168.75" width="209.25" height="174.75" rotated="true" frameX="-120.75" frameY="-84" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10025" x="1407" y="171" width="235.5" height="174.75" rotated="true" frameX="-138.75" frameY="-57.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10026" x="0.75" y="336.75" width="235.5" height="174.75" rotated="true" frameX="-138.75" frameY="-57.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10027" x="613.5" y="702" width="240" height="180" rotated="true" frameX="-144.75" frameY="-52.5" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10028" x="855.75" y="702.75" width="240" height="180" rotated="true" frameX="-144.75" frameY="-52.5" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10029" x="909.75" y="1260.75" width="238.5" height="190.5" rotated="true" frameX="-147" frameY="-54" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10030" x="1428" y="1263.75" width="238.5" height="190.5" rotated="true" frameX="-147" frameY="-54" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10031" x="279" y="1446.75" width="236.25" height="193.5" rotated="true" frameX="-144.75" frameY="-56.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10032" x="517.5" y="1452" width="236.25" height="193.5" rotated="true" frameX="-144.75" frameY="-56.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10033" x="756" y="1453.5" width="236.25" height="193.5" rotated="true" frameX="-141" frameY="-56.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10034" x="994.5" y="1455" width="236.25" height="193.5" rotated="true" frameX="-141" frameY="-56.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10035" x="1554.75" y="1074" width="236.25" height="187.5" rotated="true" frameX="-140.25" frameY="-56.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10036" x="195.75" y="1254.75" width="236.25" height="187.5" rotated="true" frameX="-140.25" frameY="-56.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10037" x="237" y="1068" width="236.25" height="184.5" rotated="true" frameX="-139.5" frameY="-56.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10038" x="475.5" y="1068.75" width="236.25" height="184.5" rotated="true" frameX="-139.5" frameY="-56.25" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10039" x="1595.25" y="888.75" width="234" height="183" rotated="true" frameX="-138.75" frameY="-58.5" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10040" x="0.75" y="1066.5" width="234" height="183" rotated="true" frameX="-138.75" frameY="-58.5" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10041" x="905.25" y="888" width="232.5" height="182.25" rotated="true" frameX="-138" frameY="-60" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10042" x="1140" y="888" width="232.5" height="182.25" rotated="true" frameX="-138" frameY="-60" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10043" x="435.75" y="884.25" width="232.5" height="181.5" rotated="true" frameX="-138" frameY="-60" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10044" x="670.5" y="885" width="232.5" height="181.5" rotated="true" frameX="-138" frameY="-60" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10045" x="1098" y="705" width="232.5" height="180.75" rotated="true" frameX="-138" frameY="-60" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10046" x="1332.75" y="705" width="232.5" height="180.75" rotated="true" frameX="-138" frameY="-60" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10047" x="1567.5" y="705.75" width="232.5" height="180.75" rotated="true" frameX="-138" frameY="-60" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10048" x="201" y="883.5" width="232.5" height="180.75" rotated="true" frameX="-138" frameY="-60" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10049" x="306" y="167.25" width="228.75" height="173.25" rotated="true" frameX="-144.75" frameY="-63.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10050" x="537" y="168.75" width="228.75" height="173.25" rotated="true" frameX="-144.75" frameY="-63.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10051" x="768" y="168.75" width="228" height="174" rotated="true" frameX="-136.5" frameY="-63.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Cmon 10052" x="1578" y="0.75" width="206.25" height="168" rotated="true" frameX="-111" frameY="-84.75" frameWidth="401.25" frameHeight="362.25"/>
+	<SubTexture name="Down Alt 10000" x="0.75" y="167.25" width="303" height="167.25" frameX="-7.5" frameY="-98.25" frameWidth="414.75" frameHeight="302.25"/>
+	<SubTexture name="Down Alt 10001" x="0.75" y="167.25" width="303" height="167.25" frameX="-7.5" frameY="-98.25" frameWidth="414.75" frameHeight="302.25"/>
+	<SubTexture name="Down Alt 10002" x="636.75" y="0.75" width="307.5" height="165.75" frameX="-2.25" frameY="-101.25" frameWidth="414.75" frameHeight="302.25"/>
+	<SubTexture name="Down Alt 10003" x="636.75" y="0.75" width="307.5" height="165.75" frameX="-2.25" frameY="-101.25" frameWidth="414.75" frameHeight="302.25"/>
+	<SubTexture name="Down Alt 10004" x="946.5" y="0.75" width="313.5" height="165.75" frameX="-0.75" frameY="-100.5" frameWidth="414.75" frameHeight="302.25"/>
+	<SubTexture name="Down Alt 10005" x="1262.25" y="0.75" width="313.5" height="165.75" frameX="-0.75" frameY="-100.5" frameWidth="414.75" frameHeight="302.25"/>
+	<SubTexture name="Down Alt 10006" x="0.75" y="0.75" width="315.75" height="164.25" frameX="-0" frameY="-98.25" frameWidth="414.75" frameHeight="302.25"/>
+	<SubTexture name="Down Alt 10007" x="318.75" y="0.75" width="315.75" height="164.25" frameX="-0" frameY="-98.25" frameWidth="414.75" frameHeight="302.25"/>
+	<SubTexture name="Idle 10000" x="393.75" y="522" width="195" height="176.25" rotated="true" frameX="-3" frameY="-12" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10001" x="591" y="522.75" width="195" height="176.25" rotated="true" frameX="-3" frameY="-12" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10002" x="238.5" y="342.75" width="192.75" height="175.5" rotated="true" frameX="-0" frameY="-14.25" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10003" x="238.5" y="342.75" width="192.75" height="175.5" rotated="true" frameX="-0" frameY="-14.25" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10004" x="433.5" y="344.25" width="195.75" height="175.5" rotated="true" frameX="-0" frameY="-11.25" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10005" x="433.5" y="344.25" width="195.75" height="175.5" rotated="true" frameX="-0" frameY="-11.25" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10006" x="788.25" y="523.5" width="201.75" height="176.25" rotated="true" frameX="-0.75" frameY="-5.25" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10007" x="788.25" y="523.5" width="201.75" height="176.25" rotated="true" frameX="-0.75" frameY="-5.25" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10008" x="631.5" y="345" width="205.5" height="175.5" rotated="true" frameX="-2.25" frameY="-1.5" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10009" x="631.5" y="345" width="205.5" height="175.5" rotated="true" frameX="-2.25" frameY="-1.5" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10010" x="992.25" y="524.25" width="207" height="176.25" rotated="true" frameX="-2.25" frameY="-0" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10011" x="1201.5" y="526.5" width="207" height="176.25" rotated="true" frameX="-2.25" frameY="-0" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10012" x="1410.75" y="526.5" width="207" height="176.25" rotated="true" frameX="-2.25" frameY="-0" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle 10013" x="1410.75" y="526.5" width="207" height="176.25" rotated="true" frameX="-2.25" frameY="-0" frameWidth="180.75" frameHeight="208.5"/>
+	<SubTexture name="Idle alt 10000" x="1620" y="526.5" width="216" height="177" rotated="true" frameX="-7.5" frameY="-4.5" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10001" x="1620" y="526.5" width="216" height="177" rotated="true" frameX="-7.5" frameY="-4.5" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10002" x="1374.75" y="888.75" width="218.25" height="182.25" rotated="true" frameX="-2.25" frameY="-3" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10003" x="1374.75" y="888.75" width="218.25" height="182.25" rotated="true" frameX="-2.25" frameY="-3" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10004" x="936.75" y="1072.5" width="219.75" height="186" rotated="true" frameX="-0" frameY="-1.5" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10005" x="936.75" y="1072.5" width="219.75" height="186" rotated="true" frameX="-0" frameY="-1.5" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10006" x="714" y="1072.5" width="220.5" height="185.25" rotated="true" frameX="-3" frameY="-0.75" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10007" x="714" y="1072.5" width="220.5" height="185.25" rotated="true" frameX="-3" frameY="-0.75" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10008" x="0.75" y="699" width="220.5" height="178.5" rotated="true" frameX="-9.75" frameY="-0.75" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10009" x="0.75" y="699" width="220.5" height="178.5" rotated="true" frameX="-9.75" frameY="-0.75" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10010" x="839.25" y="345.75" width="221.25" height="175.5" rotated="true" frameX="-12.75" frameY="-0" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10011" x="839.25" y="345.75" width="221.25" height="175.5" rotated="true" frameX="-12.75" frameY="-0" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10012" x="1644.75" y="171" width="221.25" height="174.75" rotated="true" frameX="-13.5" frameY="-0" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Idle alt 10013" x="1644.75" y="171" width="221.25" height="174.75" rotated="true" frameX="-13.5" frameY="-0" frameWidth="189.75" frameHeight="222"/>
+	<SubTexture name="Left Alt 10000" x="1233" y="1456.5" width="273.75" height="194.25" frameX="-2.25" frameY="-48.75" frameWidth="411" frameHeight="288"/>
+	<SubTexture name="Left Alt 10001" x="1233" y="1456.5" width="273.75" height="194.25" frameX="-2.25" frameY="-48.75" frameWidth="411" frameHeight="288"/>
+	<SubTexture name="Left Alt 10002" x="0.75" y="1444.5" width="276" height="192.75" frameX="-0.75" frameY="-50.25" frameWidth="411" frameHeight="288"/>
+	<SubTexture name="Left Alt 10003" x="0.75" y="1444.5" width="276" height="192.75" frameX="-0.75" frameY="-50.25" frameWidth="411" frameHeight="288"/>
+	<SubTexture name="Left Alt 10004" x="632.25" y="1260" width="275.25" height="189.75" frameX="-1.5" frameY="-53.25" frameWidth="411" frameHeight="288"/>
+	<SubTexture name="Left Alt 10005" x="1150.5" y="1263" width="275.25" height="189.75" frameX="-1.5" frameY="-53.25" frameWidth="411" frameHeight="288"/>
+	<SubTexture name="Right Alt 10000" x="564.75" y="1649.25" width="276.75" height="201.75" frameX="-0.75" frameY="-6" frameWidth="293.25" frameHeight="210"/>
+	<SubTexture name="Right Alt 10001" x="564.75" y="1649.25" width="276.75" height="201.75" frameX="-0.75" frameY="-6" frameWidth="293.25" frameHeight="210"/>
+	<SubTexture name="Right Alt 10002" x="280.5" y="1647.75" width="282" height="200.25" frameX="-0" frameY="-7.5" frameWidth="293.25" frameHeight="210"/>
+	<SubTexture name="Right Alt 10003" x="280.5" y="1647.75" width="282" height="200.25" frameX="-0" frameY="-7.5" frameWidth="293.25" frameHeight="210"/>
+	<SubTexture name="Right Alt 10004" x="1509" y="1458" width="278.25" height="199.5" frameX="-3" frameY="-8.25" frameWidth="293.25" frameHeight="210"/>
+	<SubTexture name="Right Alt 10005" x="0.75" y="1642.5" width="277.5" height="199.5" frameX="-3" frameY="-8.25" frameWidth="293.25" frameHeight="210"/>
+	<SubTexture name="Up Alt 10000" x="1467.75" y="1659.75" width="302.25" height="230.25" frameX="-6.75" frameY="-6.75" frameWidth="318" frameHeight="239.25"/>
+	<SubTexture name="Up Alt 10001" x="1467.75" y="1659.75" width="302.25" height="230.25" frameX="-6.75" frameY="-6.75" frameWidth="318" frameHeight="239.25"/>
+	<SubTexture name="Up Alt 10002" x="623.25" y="1881" width="306" height="232.5" frameX="-2.25" frameY="-4.5" frameWidth="318" frameHeight="239.25"/>
+	<SubTexture name="Up Alt 10003" x="623.25" y="1881" width="306" height="232.5" frameX="-2.25" frameY="-4.5" frameWidth="318" frameHeight="239.25"/>
+	<SubTexture name="Up Alt 10004" x="0.75" y="1850.25" width="309" height="230.25" frameX="-0" frameY="-6.75" frameWidth="318" frameHeight="239.25"/>
+	<SubTexture name="Up Alt 10005" x="312" y="1853.25" width="309" height="230.25" frameX="-0" frameY="-6.75" frameWidth="318" frameHeight="239.25"/>
+	<SubTexture name="Up Alt 10006" x="843.75" y="1650.75" width="309.75" height="228" frameX="-0" frameY="-9" frameWidth="318" frameHeight="239.25"/>
+	<SubTexture name="Up Alt 10007" x="1155.75" y="1653" width="309.75" height="228" frameX="-0" frameY="-9" frameWidth="318" frameHeight="239.25"/>
+</TextureAtlas>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Sprite.png" width="1988" height="384">
+  <SubTexture name="Darwin down0000" x="0" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0002" x="137.5" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0004" x="275" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0006" x="412.5" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0008" x="550" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0009" x="687.5" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0010" x="825" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0011" x="962.5" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin right0000" x="1100" y="0"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin right0001" x="1254" y="0"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin right0002" x="1408" y="0"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin right0004" x="1562" y="0"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin right0006" x="1716" y="0"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin up0000" x="1870" y="0"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin right0008" x="0" y="90.5"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin right0009" x="154" y="90.5"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin right0010" x="308" y="90.5"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin left0000" x="462" y="90.5"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin left0002" x="638.5" y="90.5"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin left0004" x="815" y="90.5"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin left0006" x="991.5" y="118"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin left0007" x="1168" y="118"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin left0008" x="1344.5" y="118"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin left0010" x="1521" y="118"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin Idle0000" x="1697.5" y="118"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0002" x="1838.5" y="142.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0003" x="0" y="208.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0004" x="141" y="208.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0005" x="282" y="208.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0006" x="423" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0008" x="564" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0010" x="705" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0011" x="846" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0022" x="987" y="240"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin up0002" x="1128" y="240"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin up0004" x="1245.5" y="240"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin up0006" x="1363" y="240"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin up0007" x="1480.5" y="240"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin up0008" x="1598" y="241.5"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin up0010" x="1715.5" y="241.5"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin Idle0001" x="1697.5" y="118"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0012" x="1697.5" y="118"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0013" x="1697.5" y="118"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0014" x="0" y="208.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0015" x="0" y="208.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0016" x="282" y="208.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0017" x="282" y="208.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0007" x="423" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0018" x="423" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0019" x="423" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0009" x="564" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0020" x="564" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0021" x="564" y="212.5"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin Idle0023" x="987" y="240"  width="141" height="123.5" frameX="-0" frameY="-0" frameWidth="141" frameHeight="123.5"/>
+  <SubTexture name="Darwin down0001" x="0" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0003" x="137.5" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0005" x="275" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin down0007" x="412.5" y="0"  width="137.5" height="90.5" frameX="-0" frameY="-0" frameWidth="137.5" frameHeight="90.5"/>
+  <SubTexture name="Darwin left0001" x="462" y="90.5"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin left0003" x="638.5" y="90.5"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin left0005" x="815" y="90.5"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin left0009" x="1344.5" y="118"  width="176.5" height="122" frameX="-0" frameY="-0" frameWidth="176.5" frameHeight="122"/>
+  <SubTexture name="Darwin right0003" x="1408" y="0"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin right0005" x="1562" y="0"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin right0007" x="1716" y="0"  width="154" height="118" frameX="-0" frameY="-0" frameWidth="154" frameHeight="118"/>
+  <SubTexture name="Darwin up0001" x="1870" y="0"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin up0003" x="1128" y="240"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin up0005" x="1245.5" y="240"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+  <SubTexture name="Darwin up0009" x="1598" y="241.5"  width="117.5" height="142.5" frameX="-0" frameY="-0" frameWidth="117.5" frameHeight="142.5"/>
+</TextureAtlas>

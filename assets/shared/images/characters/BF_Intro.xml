@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="BF_Intro-0.png" width="1591" height="1579">
+	<SubTexture name="BF 10000" x="982.8000000000001" y="856.4000000000001" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10001" x="1227.2" y="856.4000000000001" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10002" x="0.4" y="1054.8" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10003" x="244.8" y="1054.8" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10004" x="489.20000000000005" y="1054.8" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10005" x="733.6" y="1088.8" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10006" x="978" y="1097.6000000000001" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10007" x="1222.4" y="1097.6000000000001" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10008" x="0.4" y="1296" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10009" x="244.8" y="1296" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10010" x="489.20000000000005" y="1296" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10011" x="733.6" y="1330" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10012" x="978" y="1338.8000000000002" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 10013" x="1222.4" y="1338.8000000000002" width="243.20000000000002" height="240" rotated="true" frameX="-0" frameY="-0" frameWidth="240" frameHeight="243.20000000000002"/>
+	<SubTexture name="BF 20000" x="241.60000000000002" y="193.20000000000002" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20001" x="455.20000000000005" y="193.20000000000002" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20002" x="668.8000000000001" y="193.20000000000002" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20003" x="882.4000000000001" y="193.20000000000002" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20004" x="1096" y="193.20000000000002" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20005" x="1096" y="193.20000000000002" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20006" x="1309.6000000000001" y="193.20000000000002" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20007" x="1309.6000000000001" y="193.20000000000002" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20008" x="0.4" y="386" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20009" x="0.4" y="386" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20010" x="214" y="391.6" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20011" x="214" y="391.6" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20012" x="427.6" y="391.6" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20013" x="427.6" y="391.6" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20014" x="641.2" y="391.6" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 20015" x="641.2" y="391.6" width="212.4" height="197.20000000000002" frameX="-0" frameY="-0" frameWidth="212.4" frameHeight="197.20000000000002"/>
+	<SubTexture name="BF 30000" x="854.8000000000001" y="391.6" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30001" x="1100.4" y="391.6" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30002" x="1346" y="391.6" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30003" x="0.4" y="590" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30004" x="246" y="590" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30005" x="491.6" y="590" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30006" x="737.2" y="624" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30007" x="982.8000000000001" y="624" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30008" x="1228.4" y="624" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30009" x="0.4" y="822.4000000000001" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30010" x="246" y="822.4000000000001" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30011" x="246" y="822.4000000000001" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30012" x="491.6" y="822.4000000000001" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30013" x="491.6" y="822.4000000000001" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30014" x="737.2" y="856.4000000000001" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF 30015" x="737.2" y="856.4000000000001" width="244.4" height="231.20000000000002" frameX="-0" frameY="-0" frameWidth="244.4" frameHeight="231.20000000000002"/>
+	<SubTexture name="BF Go0000" x="0.4" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0001" x="0.4" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0002" x="241.60000000000002" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0003" x="241.60000000000002" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0004" x="482.8" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0005" x="482.8" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0006" x="724" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0007" x="724" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0008" x="965.2" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0009" x="965.2" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0010" x="1206.4" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0011" x="1206.4" y="0.4" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0012" x="0.4" y="193.20000000000002" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+	<SubTexture name="BF Go0013" x="0.4" y="193.20000000000002" width="240" height="191.60000000000002" frameX="-0" frameY="-0" frameWidth="240" frameHeight="191.60000000000002"/>
+</TextureAtlas>

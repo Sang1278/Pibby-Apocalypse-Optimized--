@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="BfSwordUp.png" width="1999" height="1158">
+	<SubTexture name="Bf Shoot D0000" x="1509.5" y="0.5" width="158" height="107" frameX="-9.5" frameY="-9.5" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0001" x="1669" y="0.5" width="166.5" height="108" frameX="-5.5" frameY="-8.5" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0002" x="1320.5" y="107" width="172.5" height="109.5" frameX="-0" frameY="-7" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0003" x="1494.5" y="109" width="172.5" height="109.5" frameX="-0" frameY="-7" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0004" x="135" y="100.5" width="170.5" height="108.5" frameX="-0" frameY="-8" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0005" x="307" y="100.5" width="170.5" height="108.5" frameX="-0" frameY="-8" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0006" x="1837" y="0.5" width="133" height="108.5" frameX="-36.5" frameY="-8" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0007" x="0.5" y="98.5" width="133" height="108.5" frameX="-36.5" frameY="-8" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0008" x="1824.5" y="110.5" width="132.5" height="110.5" frameX="-36" frameY="-6" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0009" x="0.5" y="210.5" width="143" height="110.5" frameX="-25.5" frameY="-6" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0010" x="998.5" y="102.5" width="150" height="109" frameX="-18" frameY="-7.5" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0011" x="998.5" y="102.5" width="150" height="109" frameX="-18" frameY="-7.5" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0012" x="1668.5" y="110" width="154.5" height="109.5" frameX="-16" frameY="-7" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0013" x="1668.5" y="110" width="154.5" height="109.5" frameX="-16" frameY="-7" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0014" x="1231.5" y="218" width="154" height="113" frameX="-19.5" frameY="-3.5" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0015" x="1231.5" y="218" width="154" height="113" frameX="-19.5" frameY="-3.5" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0016" x="1095" y="332.5" width="152" height="116.5" frameX="-26" frameY="-0" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot D0017" x="1095" y="332.5" width="152" height="116.5" frameX="-26" frameY="-0" frameWidth="178" frameHeight="117"/>
+	<SubTexture name="Bf Shoot L0000" x="1689.5" y="338.5" width="165" height="117" frameX="-24.5" frameY="-27.5" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0001" x="1774.5" y="602.5" width="191" height="131" frameX="-1" frameY="-13.5" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0002" x="512.5" y="825" width="185.5" height="144.5" frameX="-0" frameY="-0" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0003" x="472" y="559.5" width="185.5" height="126.5" frameX="-0" frameY="-18" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0004" x="285" y="559.5" width="185.5" height="126" frameX="-0" frameY="-18.5" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0005" x="699.5" y="831.5" width="185.5" height="144.5" frameX="-0" frameY="-0" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0006" x="1547" y="455.5" width="123.5" height="121.5" frameX="-62" frameY="-23" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0007" x="935.5" y="445.5" width="146.5" height="119.5" frameX="-39" frameY="-25" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0008" x="1009.5" y="571.5" width="143" height="128.5" frameX="-45" frameY="-16" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0009" x="1879.5" y="222.5" width="119" height="133.5" rotated="true" frameX="-54.5" frameY="-25.5" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0010" x="309.5" y="439" width="153.5" height="118.5" frameX="-37" frameY="-26" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0011" x="464.5" y="439.5" width="158.5" height="118.5" frameX="-32" frameY="-26" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0012" x="624.5" y="439.5" width="155" height="118.5" frameX="-35" frameY="-26" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0013" x="624.5" y="439.5" width="155" height="118.5" frameX="-35" frameY="-26" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0014" x="0.5" y="438.5" width="155" height="117" frameX="-36" frameY="-27.5" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0015" x="0.5" y="438.5" width="155" height="117" frameX="-36" frameY="-27.5" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0016" x="1248.5" y="336" width="158.5" height="116.5" frameX="-49" frameY="-28" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot L0017" x="1248.5" y="336" width="158.5" height="116.5" frameX="-49" frameY="-28" frameWidth="207.5" frameHeight="145"/>
+	<SubTexture name="Bf Shoot R0000" x="1083.5" y="450.5" width="154.5" height="119.5" frameX="-17" frameY="-27" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0001" x="435.5" y="687.5" width="172" height="133" frameX="-2.5" frameY="-13.5" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0002" x="886.5" y="837" width="181.5" height="146.5" frameX="-0.5" frameY="-0" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0003" x="1154" y="576" width="181.5" height="128.5" frameX="-0.5" frameY="-18" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0004" x="826.5" y="566.5" width="181.5" height="128" frameX="-0" frameY="-18.5" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0005" x="1069.5" y="841.5" width="181.5" height="146.5" frameX="-0" frameY="-0" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0006" x="0.5" y="557" width="123.5" height="123" rotated="true" frameX="-60" frameY="-23" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0007" x="1824.5" y="480" width="146" height="121" frameX="-37" frameY="-25.5" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0008" x="1337" y="577" width="141" height="129.5" frameX="-43.5" frameY="-17" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0009" x="1856" y="357.5" width="131.5" height="121" frameX="-53" frameY="-25.5" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0010" x="1239.5" y="454" width="150.5" height="120.5" frameX="-35" frameY="-26" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0011" x="1391.5" y="455" width="154" height="120.5" frameX="-31.5" frameY="-26" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0012" x="1672" y="457" width="151" height="120.5" frameX="-32.5" frameY="-26" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0013" x="1672" y="457" width="151" height="120.5" frameX="-32.5" frameY="-26" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0014" x="781" y="441.5" width="153" height="119" frameX="-21" frameY="-27.5" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0015" x="781" y="441.5" width="153" height="119" frameX="-21" frameY="-27.5" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0016" x="157" y="439" width="151" height="118" frameX="-18.5" frameY="-28.5" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot R0017" x="157" y="439" width="151" height="118" frameX="-18.5" frameY="-28.5" frameWidth="187.5" frameHeight="146.5"/>
+	<SubTexture name="Bf Shoot U0000" x="1479.5" y="578.5" width="159.5" height="130.5" frameX="-10.5" frameY="-9" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0001" x="1581.5" y="711" width="165.5" height="137" frameX="-5" frameY="-2.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0002" x="1748.5" y="735" width="169.5" height="139.5" frameX="-0.5" frameY="-0" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0003" x="0.5" y="820.5" width="169.5" height="139.5" frameX="-0.5" frameY="-0" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0004" x="171.5" y="820.5" width="169" height="139.5" frameX="-0" frameY="-0" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0005" x="342" y="822" width="169" height="139.5" frameX="-0" frameY="-0" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0006" x="819" y="211.5" width="137" height="112" rotated="true" frameX="-57.5" frameY="-2.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0007" x="957.5" y="213" width="137" height="112" rotated="true" frameX="-57.5" frameY="-2.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0008" x="1096" y="215" width="134" height="112.5" rotated="true" frameX="-56.5" frameY="-5.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0009" x="759" y="696" width="140.5" height="134" frameX="-28.5" frameY="-5.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0010" x="134.5" y="686" width="147.5" height="133" frameX="-23" frameY="-6.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0011" x="134.5" y="686" width="147.5" height="133" frameX="-23" frameY="-6.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0012" x="609" y="690.5" width="148.5" height="133" frameX="-21" frameY="-6.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0013" x="609" y="690.5" width="148.5" height="133" frameX="-21" frameY="-6.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0014" x="283.5" y="687" width="150.5" height="132" frameX="-19.5" frameY="-7.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0015" x="283.5" y="687" width="150.5" height="132" frameX="-19.5" frameY="-7.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0016" x="125.5" y="558.5" width="158" height="126" frameX="-13.5" frameY="-13.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="Bf Shoot U0017" x="125.5" y="558.5" width="158" height="126" frameX="-13.5" frameY="-13.5" frameWidth="171.5" frameHeight="139.5"/>
+	<SubTexture name="block bad0000" x="1191.5" y="0.5" width="157.5" height="102.5" rotated="true" frameX="-40" frameY="-20" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0001" x="1350.5" y="0.5" width="157.5" height="105" rotated="true" frameX="-40" frameY="-20" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0002" x="479" y="100.5" width="172.5" height="108.5" rotated="true" frameX="-44" frameY="-5" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0003" x="653" y="101" width="172.5" height="108.5" rotated="true" frameX="-44" frameY="-5" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0004" x="879" y="0.5" width="177.5" height="99.5" rotated="true" frameX="-42.5" frameY="-0" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0005" x="879" y="0.5" width="177.5" height="99.5" rotated="true" frameX="-42.5" frameY="-0" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0006" x="700" y="0.5" width="177.5" height="99" rotated="true" frameX="-40.5" frameY="-0" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0007" x="700" y="0.5" width="177.5" height="99" rotated="true" frameX="-40.5" frameY="-0" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0008" x="165.5" y="0.5" width="177.5" height="98.5" rotated="true" frameX="-39.5" frameY="-0" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0009" x="165.5" y="0.5" width="177.5" height="98.5" rotated="true" frameX="-39.5" frameY="-0" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0010" x="344.5" y="0.5" width="176" height="98.5" rotated="true" frameX="-39.5" frameY="-1.5" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0011" x="344.5" y="0.5" width="176" height="98.5" rotated="true" frameX="-39.5" frameY="-1.5" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0012" x="522" y="0.5" width="176.5" height="98.5" rotated="true" frameX="-39.5" frameY="-1" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0013" x="522" y="0.5" width="176.5" height="98.5" rotated="true" frameX="-39.5" frameY="-1" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0014" x="0.5" y="0.5" width="163.5" height="96.5" rotated="true" frameX="-37" frameY="-14" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0015" x="0.5" y="0.5" width="163.5" height="96.5" rotated="true" frameX="-37" frameY="-14" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0016" x="1640.5" y="579" width="132.5" height="130.5" frameX="-0" frameY="-47" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block bad0017" x="1640.5" y="579" width="132.5" height="130.5" frameX="-0" frameY="-47" frameWidth="152.5" frameHeight="177.5"/>
+	<SubTexture name="block good0000" x="1387" y="220" width="140.5" height="114.5" frameX="-78" frameY="-60" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0001" x="1529" y="221" width="165.5" height="114.5" frameX="-78" frameY="-60" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0002" x="1696" y="222.5" width="182" height="114.5" frameX="-78" frameY="-60" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0003" x="0.5" y="322.5" width="191.5" height="114.5" frameX="-78" frameY="-60" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0004" x="193.5" y="322.5" width="194.5" height="115" frameX="-77.5" frameY="-59.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0005" x="389.5" y="322.5" width="139.5" height="115" frameX="-77.5" frameY="-59.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0006" x="530.5" y="323" width="140" height="115" frameX="-77.5" frameY="-59.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0007" x="530.5" y="323" width="140" height="115" frameX="-77.5" frameY="-59.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0008" x="672" y="323" width="140.5" height="115" frameX="-77" frameY="-59.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0009" x="672" y="323" width="140.5" height="115" frameX="-77" frameY="-59.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0010" x="814" y="325" width="142" height="115" frameX="-76.5" frameY="-59.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0011" x="814" y="325" width="142" height="115" frameX="-76.5" frameY="-59.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0012" x="0.5" y="686" width="132.5" height="131.5" rotated="true" frameX="-77.5" frameY="-42" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0013" x="1816" y="876" width="174.5" height="170" rotated="true" frameX="-27.5" frameY="-0" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0014" x="1252.5" y="845.5" width="155" height="152.5" rotated="true" frameX="-16.5" frameY="-19.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0015" x="1252.5" y="845.5" width="155" height="152.5" rotated="true" frameX="-16.5" frameY="-19.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0016" x="659" y="562" width="166" height="127" frameX="-0" frameY="-47.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block good0017" x="659" y="562" width="166" height="127" frameX="-0" frameY="-47.5" frameWidth="272" frameHeight="175"/>
+	<SubTexture name="block sick0000" x="901" y="701.5" width="197.5" height="134" frameX="-2.5" frameY="-34.5" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0001" x="1409" y="849.5" width="200" height="155.5" frameX="-0" frameY="-19.5" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0002" x="1610.5" y="876" width="204" height="165" frameX="-0" frameY="-11" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0003" x="0.5" y="961.5" width="204" height="169.5" frameX="-0" frameY="-8.5" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0004" x="206" y="963" width="206.5" height="169.5" frameX="-0" frameY="-8.5" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0005" x="414" y="971" width="206" height="172" frameX="-0.5" frameY="-6" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0006" x="621.5" y="977.5" width="206.5" height="172" frameX="-0.5" frameY="-6" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0007" x="829.5" y="985" width="204.5" height="172" frameX="-2" frameY="-6" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0008" x="1408.5" y="337" width="139" height="116.5" frameX="-84.5" frameY="-52" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0009" x="1408.5" y="337" width="139" height="116.5" frameX="-84.5" frameY="-52" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0010" x="1549" y="337" width="139" height="117" frameX="-91" frameY="-51.5" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0011" x="1549" y="337" width="139" height="117" frameX="-91" frameY="-51.5" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0012" x="957.5" y="326.5" width="136" height="117.5" frameX="-92.5" frameY="-51" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0013" x="957.5" y="326.5" width="136" height="117.5" frameX="-92.5" frameY="-51" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0014" x="1058" y="0.5" width="132" height="100.5" rotated="true" frameX="-101.5" frameY="-36.5" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0015" x="1100" y="706" width="168.5" height="134" rotated="true" frameX="-68" frameY="-0" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0016" x="1270" y="708" width="153" height="136" frameX="-50" frameY="-32.5" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="block sick0017" x="1424.5" y="710.5" width="155.5" height="136" frameX="-50" frameY="-32.5" frameWidth="230" frameHeight="178.5"/>
+	<SubTexture name="idle sword0000" x="827" y="101.5" width="170" height="108.5" frameX="-0" frameY="-2" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0001" x="827" y="101.5" width="170" height="108.5" frameX="-0" frameY="-2" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0002" x="1150" y="104.5" width="169" height="109" frameX="-0" frameY="-1.5" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0003" x="1150" y="104.5" width="169" height="109" frameX="-0" frameY="-1.5" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0004" x="145" y="210.5" width="168.5" height="110.5" frameX="-1" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0005" x="145" y="210.5" width="168.5" height="110.5" frameX="-1" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0006" x="315" y="210.5" width="167" height="110.5" frameX="-2.5" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0007" x="315" y="210.5" width="167" height="110.5" frameX="-2.5" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0008" x="483.5" y="210.5" width="166.5" height="110.5" frameX="-3" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0009" x="483.5" y="210.5" width="166.5" height="110.5" frameX="-3" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0010" x="651.5" y="211" width="166" height="110.5" frameX="-3.5" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0011" x="651.5" y="211" width="166" height="110.5" frameX="-3.5" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0012" x="651.5" y="211" width="166" height="110.5" frameX="-3.5" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+	<SubTexture name="idle sword0013" x="651.5" y="211" width="166" height="110.5" frameX="-3.5" frameY="-0" frameWidth="170" frameHeight="110.5"/>
+</TextureAtlas>

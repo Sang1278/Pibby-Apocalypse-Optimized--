@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="gumdeath.png" width="3197" height="2918">
+	<SubTexture name="death gumball0000" x="1561.6000000000001" y="460.40000000000003" width="359.6" height="185.60000000000002" frameX="-0" frameY="-158.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0001" x="1264.8000000000002" y="457.6" width="295.6" height="183.60000000000002" frameX="-64" frameY="-160.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0002" x="1285.6000000000001" y="278" width="241.60000000000002" height="176.4" frameX="-108.80000000000001" frameY="-169.60000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0003" x="1748.4" y="122.80000000000001" width="298" height="158.8" frameX="-68" frameY="-187.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0004" x="1455.2" y="122" width="292" height="154.8" frameX="-77.2" frameY="-190.8" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0005" x="2047.6000000000001" y="124.80000000000001" width="287.2" height="164" frameX="-86" frameY="-181.60000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0006" x="2336" y="126.80000000000001" width="287.2" height="164" frameX="-86" frameY="-181.60000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0007" x="277.6" y="240" width="279.2" height="171.60000000000002" frameX="-94.4" frameY="-174" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0008" x="558" y="244.4" width="280.8" height="173.20000000000002" frameX="-94.4" frameY="-174" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0009" x="2176.4" y="292" width="277.6" height="177.60000000000002" frameX="-94.4" frameY="-173.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0010" x="0.4" y="236.8" width="276" height="170.8" frameX="-94" frameY="-174.8" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0011" x="1056.4" y="272" width="228" height="175.60000000000002" frameX="-93.60000000000001" frameY="-170" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0012" x="2742.4" y="329.6" width="220" height="178.8" frameX="-102" frameY="-166.8" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0013" x="1955.2" y="290" width="220" height="177.20000000000002" frameX="-102.4" frameY="-168.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0014" x="222.8" y="412.8" width="220" height="179.60000000000002" frameX="-105.2" frameY="-166" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0015" x="1922.4" y="468.40000000000003" width="218.4" height="188.8" frameX="-107.60000000000001" frameY="-156.8" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0016" x="2197.6" y="896" width="297.6" height="218.4" frameX="-113.60000000000001" frameY="-126.80000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0017" x="1717.2" y="1096.8" width="286" height="262.40000000000003" rotated="true" frameX="-194.8" frameY="-59.2" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0018" x="1421.2" y="1086.4" width="294.8" height="240.4" frameX="-194.8" frameY="-104.80000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0019" x="793.6" y="1056.8" width="301.2" height="230.4" frameX="-193.20000000000002" frameY="-114.80000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0020" x="1096" y="1072" width="324" height="230.4" frameX="-193.20000000000002" frameY="-114.80000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0021" x="2496.4" y="928.4000000000001" width="334.8" height="219.20000000000002" frameX="-182.4" frameY="-126" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0022" x="2832.4" y="930" width="344" height="219.20000000000002" frameX="-182.4" frameY="-126" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0023" x="2584.4" y="714.8000000000001" width="349.20000000000005" height="212.4" frameX="-178.4" frameY="-133.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0024" x="0.4" y="800" width="349.20000000000005" height="212.4" frameX="-178.4" frameY="-133.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0025" x="1174" y="642.4000000000001" width="354" height="208.4" frameX="-175.20000000000002" frameY="-137.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0026" x="1529.2" y="647.2" width="354" height="208.4" frameX="-175.20000000000002" frameY="-137.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0027" x="587.2" y="608.8000000000001" width="356.40000000000003" height="206.8" frameX="-174.4" frameY="-138.8" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0028" x="587.2" y="608.8000000000001" width="356.40000000000003" height="206.8" frameX="-174.4" frameY="-138.8" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0029" x="0.4" y="593.6" width="356.8" height="205.20000000000002" frameX="-174.4" frameY="-140.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0030" x="0.4" y="593.6" width="356.8" height="205.20000000000002" frameX="-174.4" frameY="-140.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0031" x="2825.2000000000003" y="509.6" width="357.20000000000005" height="204" frameX="-174" frameY="-141.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0032" x="2825.2000000000003" y="509.6" width="357.20000000000005" height="204" frameX="-174" frameY="-141.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0033" x="834.8000000000001" y="426.40000000000003" width="202.4" height="181.20000000000002" rotated="true" frameX="-173.60000000000002" frameY="-143.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0034" x="834.8000000000001" y="426.40000000000003" width="202.4" height="181.20000000000002" rotated="true" frameX="-173.60000000000002" frameY="-143.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0035" x="444" y="418.8" width="201.60000000000002" height="180" rotated="true" frameX="-174" frameY="-144" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0036" x="444" y="418.8" width="201.60000000000002" height="180" rotated="true" frameX="-174" frameY="-144" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0037" x="2963.6000000000004" y="329.6" width="200.4" height="178.8" rotated="true" frameX="-174.8" frameY="-145.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0038" x="1528.4" y="278" width="200.4" height="178.4" rotated="true" frameX="-175.20000000000002" frameY="-145.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0039" x="2876.4" y="128.4" width="177.20000000000002" height="200" frameX="-175.60000000000002" frameY="-146" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0040" x="0.4" y="408.8" width="221.20000000000002" height="178.8" rotated="true" frameX="-176" frameY="-124.80000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0041" x="1730" y="282.8" width="224" height="176.4" rotated="true" frameX="-176" frameY="-122" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0042" x="1038.4" y="448.8" width="225.20000000000002" height="180.4" rotated="true" frameX="-170.8" frameY="-120.80000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0043" x="2142" y="470.8" width="226" height="195.60000000000002" rotated="true" frameX="-156.4" frameY="-120" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0044" x="2369.2000000000003" y="476.8" width="226.4" height="202.8" rotated="true" frameX="-149.6" frameY="-119.60000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0045" x="2596.8" y="509.6" width="227.20000000000002" height="202.8" rotated="true" frameX="-148.8" frameY="-119.2" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0046" x="358.40000000000003" y="600" width="227.60000000000002" height="205.60000000000002" rotated="true" frameX="-144.8" frameY="-118.80000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0047" x="944.8000000000001" y="630.4000000000001" width="228" height="210" rotated="true" frameX="-141.6" frameY="-118.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0048" x="1884.4" y="658.4000000000001" width="228" height="211.60000000000002" rotated="true" frameX="-140" frameY="-118.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0049" x="2113.6" y="667.6" width="228" height="212.8" rotated="true" frameX="-138.4" frameY="-118.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0050" x="543.2" y="1031.2" width="249.20000000000002" height="228" frameX="-138" frameY="-118.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0051" x="278.8" y="1031.2" width="263.2" height="226.4" frameX="-138" frameY="-120" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0052" x="0.4" y="1013.6" width="277.2" height="225.60000000000002" frameX="-133.6" frameY="-120.80000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0053" x="2342.8" y="680.8000000000001" width="240.4" height="214" frameX="-177.60000000000002" frameY="-132.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0054" x="2934.8" y="714.8000000000001" width="246" height="214" frameX="-177.60000000000002" frameY="-132.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0055" x="895.2" y="841.6" width="250.4" height="214" frameX="-177.60000000000002" frameY="-132.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0056" x="1146.8" y="852" width="260.8" height="214" frameX="-176" frameY="-132.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0057" x="1408.8000000000002" y="856.8000000000001" width="256.8" height="214" frameX="-176.4" frameY="-132.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0058" x="1666.8000000000002" y="871.2" width="264" height="214" frameX="-175.60000000000002" frameY="-132.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0059" x="1932" y="881.6" width="264.40000000000003" height="214" frameX="-176" frameY="-132.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0060" x="350.8" y="816.8000000000001" width="268" height="213.20000000000002" frameX="-174.8" frameY="-133.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0061" x="620" y="816.8000000000001" width="274" height="213.20000000000002" frameX="-175.20000000000002" frameY="-133.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0062" x="0.4" y="50" width="191.20000000000002" height="182.4" rotated="true" frameX="-172.8" frameY="-155.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0063" x="646.8000000000001" y="418.8" width="186.8" height="186.4" frameX="-167.20000000000002" frameY="-160" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0064" x="840" y="251.60000000000002" width="215.20000000000002" height="173.60000000000002" rotated="true" frameX="-183.60000000000002" frameY="-131.20000000000002" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0065" x="1856.8000000000002" y="0.4" width="197.60000000000002" height="121.2" frameX="-176.4" frameY="-44.800000000000004" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0066" x="779.6" y="0.4" width="257.6" height="111.2" frameX="-146.4" frameY="-19.200000000000003" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0067" x="1319.6000000000001" y="0.4" width="263.2" height="119.60000000000001" frameX="-143.6" frameY="-10.8" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0068" x="1584" y="0.4" width="271.6" height="120.4" frameX="-139.20000000000002" frameY="-2.4000000000000004" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0069" x="2537.6000000000004" y="0.4" width="277.6" height="125.2" frameX="-136.4" frameY="-0.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0070" x="1038.4" y="0.4" width="280" height="118.4" frameX="-135.20000000000002" frameY="-0.8" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0071" x="194.4" y="0.4" width="290.40000000000003" height="106" frameX="-130" frameY="-2.4000000000000004" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0072" x="486" y="0.4" width="292.40000000000003" height="106.80000000000001" frameX="-128.8" frameY="-8.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0073" x="2055.6" y="0.4" width="262.40000000000003" height="121.2" frameX="-162" frameY="-53.2" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0074" x="2624.4" y="128.4" width="250.8" height="168.4" frameX="-148.4" frameY="-20" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0075" x="2455.2000000000003" y="298" width="286" height="177.60000000000002" frameX="-131.6" frameY="-6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0076" x="1201.6000000000001" y="121.2" width="252.4" height="149.6" frameX="-145.20000000000002" frameY="-2" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0077" x="3056.4" y="0.4" width="140.4" height="218.4" rotated="true" frameX="-163.60000000000002" frameY="-0.4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0078" x="2319.2000000000003" y="0.4" width="217.20000000000002" height="123.2" frameX="-166.4" frameY="-0" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0079" x="2816.4" y="0.4" width="238.8" height="126.80000000000001" frameX="-155.60000000000002" frameY="-1.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0080" x="192.8" y="107.60000000000001" width="244.4" height="128" frameX="-152.8" frameY="-3.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0081" x="438.40000000000003" y="108.4" width="250.8" height="130.4" frameX="-149.6" frameY="-3.2" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0082" x="690.4000000000001" y="112.80000000000001" width="253.20000000000002" height="130.4" frameX="-148.4" frameY="-3.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0083" x="944.8000000000001" y="120" width="255.60000000000002" height="130.4" frameX="-147.20000000000002" frameY="-4" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0084" x="2004.4" y="1115.6000000000001" width="280.8" height="277.6" rotated="true" frameX="-186" frameY="-67.60000000000001" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0085" x="1325.2" y="1611.2" width="308.8" height="357.20000000000005" rotated="true" frameX="-154.4" frameY="-40" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0086" x="1635.2" y="1714.8000000000002" width="427.6" height="312" frameX="-126.80000000000001" frameY="-36.800000000000004" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0087" x="2064" y="1716.8000000000002" width="403.6" height="312.8" frameX="-126.80000000000001" frameY="-36" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0088" x="2468.8" y="1716.8000000000002" width="403.6" height="312.8" frameX="-126.80000000000001" frameY="-36" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0089" x="0.4" y="1826.8000000000002" width="402.40000000000003" height="313.20000000000005" frameX="-125.2" frameY="-35.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0090" x="0.4" y="1826.8000000000002" width="402.40000000000003" height="313.20000000000005" frameX="-125.2" frameY="-35.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0091" x="404" y="1854.8000000000002" width="401.6" height="313.20000000000005" frameX="-125.2" frameY="-35.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0092" x="404" y="1854.8000000000002" width="401.6" height="313.20000000000005" frameX="-125.2" frameY="-35.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0093" x="2873.6000000000004" y="1716.8000000000002" width="313.20000000000005" height="401.20000000000005" rotated="true" frameX="-125.60000000000001" frameY="-35.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="death gumball0094" x="2873.6000000000004" y="1716.8000000000002" width="313.20000000000005" height="401.20000000000005" rotated="true" frameX="-125.60000000000001" frameY="-35.6" frameWidth="554.4" frameHeight="350.8"/>
+	<SubTexture name="retry loop0000" x="2820.8" y="2119.2000000000003" width="314.8" height="401.6" rotated="true" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0001" x="1208.8" y="2598.4" width="401.6" height="319.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0002" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0003" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0004" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0005" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0006" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0007" x="403.20000000000005" y="2483.6000000000004" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0008" x="806" y="2498.8" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0009" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0010" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0011" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0012" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry loop0013" x="0.4" y="2455.6" width="401.6" height="313.6" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="321.20000000000005"/>
+	<SubTexture name="retry0000" x="806.8000000000001" y="1870" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0001" x="806.8000000000001" y="1870" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0002" x="1209.6000000000001" y="1969.6000000000001" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0003" x="1612.4" y="2028" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0004" x="2015.2" y="2030.8000000000002" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0005" x="2418" y="2030.8000000000002" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0006" x="0.4" y="2141.2000000000003" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0007" x="403.20000000000005" y="2169.2000000000003" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0008" x="806" y="2184.4" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0009" x="1208.8" y="2284" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0010" x="1611.6000000000001" y="2342.4" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0011" x="1611.6000000000001" y="2342.4" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0012" x="2014.4" y="2345.2000000000003" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0013" x="2014.4" y="2345.2000000000003" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0014" x="2417.2000000000003" y="2345.2000000000003" width="401.6" height="313.20000000000005" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0015" x="2358" y="1433.2" width="327.20000000000005" height="282.40000000000003" frameX="-47.2" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0016" x="2686.4" y="1433.2" width="332" height="282.40000000000003" frameX="-42.400000000000006" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0017" x="328.8" y="1543.2" width="329.6" height="282.40000000000003" frameX="-41.6" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0018" x="659.6" y="1571.2" width="332" height="282.40000000000003" frameX="-39.2" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0019" x="992.8000000000001" y="1586.4" width="331.20000000000005" height="282.40000000000003" frameX="-39.2" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0020" x="0.4" y="1541.6000000000001" width="327.20000000000005" height="282.40000000000003" frameX="-43.2" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0021" x="2286.4" y="1148.8" width="326" height="281.6" frameX="-43.2" frameY="-20.8" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0022" x="2613.6000000000004" y="1150.4" width="326" height="281.6" frameX="-43.2" frameY="-20.8" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0023" x="2613.6000000000004" y="1150.4" width="326" height="281.6" frameX="-43.2" frameY="-20.8" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0024" x="0.4" y="1258.8000000000002" width="327.20000000000005" height="281.6" frameX="-42" frameY="-20.8" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0025" x="328.8" y="1260.4" width="335.20000000000005" height="281.6" frameX="-34" frameY="-20.8" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0026" x="328.8" y="1260.4" width="335.20000000000005" height="281.6" frameX="-34" frameY="-20.8" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0027" x="665.2" y="1288.4" width="338" height="281.6" frameX="-31.200000000000003" frameY="-20.8" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0028" x="1338.8000000000002" y="1328" width="340.8" height="282" frameX="-28.8" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0029" x="1338.8000000000002" y="1328" width="340.8" height="282" frameX="-28.8" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0030" x="1680.8000000000002" y="1394.4" width="342" height="282" frameX="-27.6" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0031" x="2024" y="1431.6000000000001" width="332.8" height="282" frameX="-36.800000000000004" frameY="-20.400000000000002" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0032" x="1004.4000000000001" y="1303.6000000000001" width="333.20000000000005" height="281.6" frameX="-36" frameY="-20.8" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0033" x="144.4" y="0.4" width="48.800000000000004" height="48.400000000000006" rotated="true" frameX="-36" frameY="-100" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0034" x="73.2" y="0.4" width="34.4" height="28" frameX="-49.6" frameY="-120.80000000000001" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0035" x="73.2" y="0.4" width="34.4" height="28" frameX="-49.6" frameY="-120.80000000000001" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0036" x="73.2" y="0.4" width="34.4" height="28" frameX="-49.6" frameY="-120.80000000000001" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0037" x="73.2" y="0.4" width="34.4" height="28" frameX="-49.6" frameY="-120.80000000000001" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0038" x="73.2" y="0.4" width="34.4" height="28" frameX="-49.6" frameY="-120.80000000000001" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0039" x="108.80000000000001" y="0.4" width="34.4" height="28" frameX="-49.6" frameY="-120.80000000000001" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0040" x="108.80000000000001" y="0.4" width="34.4" height="28" frameX="-49.6" frameY="-120.80000000000001" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0041" x="2" y="0.4" width="34.4" height="27.6" frameX="-49.6" frameY="-120.80000000000001" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0042" x="37.6" y="0.4" width="34.4" height="27.6" frameX="-49.6" frameY="-120.80000000000001" frameWidth="401.6" frameHeight="313.20000000000005"/>
+	<SubTexture name="retry0043" x="0.4" y="0.4" width="0.4" height="0.4" frameX="-0" frameY="-0" frameWidth="401.6" frameHeight="313.20000000000005"/>
+</TextureAtlas>
