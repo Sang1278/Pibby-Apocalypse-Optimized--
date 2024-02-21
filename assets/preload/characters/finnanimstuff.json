@@ -1,22 +1,22 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-294,
 				-101
 			],
-			"anim": "lesgo",
+			"loop": false,
 			"fps": 24,
-			"name": "Finn Animation yez",
-			"indices": []
+			"anim": "lesgo",
+			"indices": [],
+			"name": "Finn Animation yez"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/FinnAnim",
 	"position": [
-		-320,
-		30
+		-70,
+		220
 	],
 	"healthicon": "finn",
 	"flip_x": false,
@@ -26,9 +26,9 @@
 		161
 	],
 	"camera_position": [
-		-170,
-		30
+		-360,
+		-180
 	],
 	"sing_duration": 6.1,
-	"scale": 1.5
+	"scale": 3
 }

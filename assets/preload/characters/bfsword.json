@@ -1,147 +1,147 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				76,
-				106
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-24,
+				6
+			],
 			"anim": "shootRIGHT",
-			"indices": [],
-			"name": "Bf Shoot R"
+			"fps": 24,
+			"name": "Bf Shoot R",
+			"indices": []
 		},
 		{
-			"offsets": [
-				210,
-				110
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				110,
+				10
+			],
 			"anim": "shootLEFT",
-			"indices": [],
-			"name": "Bf Shoot L"
+			"fps": 24,
+			"name": "Bf Shoot L",
+			"indices": []
 		},
 		{
-			"offsets": [
-				73,
-				85
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-27,
+				-15
+			],
 			"anim": "shootUP",
-			"indices": [],
-			"name": "Bf Shoot U"
+			"fps": 24,
+			"name": "Bf Shoot U",
+			"indices": []
 		},
 		{
-			"offsets": [
-				103,
-				-12
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				3,
+				-112
+			],
 			"anim": "shootDOWN",
-			"indices": [],
-			"name": "Bf Shoot D"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				178,
-				-34
-			],
-			"anim": "idle",
 			"fps": 24,
-			"name": "idle sword0",
+			"name": "Bf Shoot D",
 			"indices": []
 		},
 		{
 			"offsets": [
-				170,
-				223
+				78,
+				-134
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle sword0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				123
+			],
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "block good0"
+			"fps": 24,
+			"name": "block good0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				170,
-				223
+				70,
+				123
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "block good0"
+			"fps": 24,
+			"name": "block good0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				325,
-				201
+				225,
+				101
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "block sick0"
+			"fps": 24,
+			"name": "block sick0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				325,
-				201
+				225,
+				101
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "block sick0"
+			"fps": 24,
+			"name": "block sick0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				27,
-				229
+				-83,
+				129
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"loop": false,
-			"name": "block bad0"
+			"fps": 24,
+			"name": "block bad0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				27,
-				229
+				-83,
+				129
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"loop": false,
-			"name": "block bad0"
+			"fps": 24,
+			"name": "block bad0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				27,
-				229
+				-83,
+				129
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUPmiss",
-			"loop": false,
-			"name": "block bad0"
+			"fps": 24,
+			"name": "block bad0",
+			"indices": []
 		},
 		{
-			"offsets": [
-				27,
-				229
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
 			"loop": false,
-			"name": "block bad0"
+			"offsets": [
+				-83,
+				129
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "block bad0",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -162,5 +162,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 4
 }

@@ -1,146 +1,78 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				33,
 				-6
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "cmon",
-			"indices": [],
-			"name": "Cmon"
-		},
-		{
-			"offsets": [
-				48,
-				-227
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "MissD"
+			"name": "Cmon",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-153,
-				56
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "MissR"
-		},
-		{
-			"offsets": [
-				-138,
-				102
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "MissU"
-		},
-		{
-			"offsets": [
-				68,
-				33
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "MissL"
-		},
-		{
 			"offsets": [
 				-133,
 				-147
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle alt"
+			"fps": 24,
+			"name": "Idle alt",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				68,
 				-100
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left Alt"
+			"fps": 24,
+			"name": "Left Alt",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				103,
 				-82
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down Alt"
+			"fps": 24,
+			"name": "Down Alt",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				43,
 				-112
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up Alt"
+			"fps": 24,
+			"name": "Up Alt",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-79,
 				-173
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right Alt"
-		},
-		{
-			"offsets": [
-				-260,
-				-180
-			],
-			"indices": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13
-			],
 			"fps": 24,
-			"anim": "idle-alt",
-			"loop": true,
-			"name": "Idle"
+			"name": "Right Alt",
+			"indices": []
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/Pibby_Angy",
 	"position": [
-		-150,
-		260
+		-60,
+		320
 	],
 	"healthicon": "pibby",
 	"flip_x": false,
@@ -154,5 +86,6 @@
 		-20
 	],
 	"sing_duration": 5,
-	"scale": 1.5
+	"scale": 2,
+	"_editor_isPlayer": false
 }

@@ -1,66 +1,67 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				93,
 				25
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "dl"
+			"fps": 24,
+			"name": "dl",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-85,
 				73
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "dr"
+			"fps": 24,
+			"name": "dr",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				26,
 				-7
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "dd"
+			"fps": 24,
+			"name": "dd",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				7,
 				99
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "du"
+			"fps": 24,
+			"name": "du",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				30
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": true,
-			"name": "di"
+			"fps": 24,
+			"name": "di",
+			"indices": []
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/darwin-fw",
 	"position": [
-		100,
-		450
+		210,
+		490
 	],
 	"healthicon": "darwin",
 	"flip_x": true,
@@ -74,5 +75,6 @@
 		-70
 	],
 	"sing_duration": 4,
-	"scale": 1.1
+	"scale": 2.2,
+	"_editor_isPlayer": false
 }

@@ -71,7 +71,7 @@
 	"image": "characters/badfinn",
 	"position": [
 		-30,
-		20
+		120
 	],
 	"healthicon": "finnbad",
 	"flip_x": false,
@@ -82,8 +82,8 @@
 	],
 	"camera_position": [
 		-80,
-		-90
+		-100
 	],
-	"sing_duration": 6.09999999999999,
-	"scale": 1.2
+	"sing_duration": 6.1,
+	"scale": 2.4
 }

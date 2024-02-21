@@ -2,99 +2,99 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				240
+				-155,
+				60
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 7,
 			"anim": "idle",
 			"loop": true,
 			"name": "Bf Idle"
 		},
 		{
 			"offsets": [
-				-6,
-				234
+				-156,
+				54
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 10,
 			"anim": "singDOWN",
 			"loop": false,
 			"name": "Bf Down"
 		},
 		{
 			"offsets": [
-				-15,
-				230
+				-165,
+				50
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 10,
 			"anim": "singRIGHT",
 			"loop": false,
 			"name": "Bf Right"
 		},
 		{
 			"offsets": [
-				-11,
-				241
+				-161,
+				61
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 10,
 			"anim": "singUP",
 			"loop": false,
 			"name": "Bf Up"
 		},
 		{
 			"offsets": [
-				-17,
-				234
+				-167,
+				54
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 10,
 			"anim": "singLEFT",
 			"loop": false,
 			"name": "Bf Left"
 		},
 		{
 			"offsets": [
-				40,
-				233
+				-110,
+				53
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 10,
 			"anim": "singDOWNmiss",
 			"loop": false,
 			"name": "Bf D Miss"
 		},
 		{
 			"offsets": [
-				17,
-				249
+				-133,
+				69
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 10,
 			"anim": "singUPmiss",
 			"loop": false,
 			"name": "Bf U Miss"
 		},
 		{
 			"offsets": [
-				54,
-				245
+				-94,
+				65
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 10,
 			"anim": "singRIGHTmiss",
 			"loop": false,
 			"name": "Bf R Miss"
 		},
 		{
 			"offsets": [
-				86,
-				237
+				-64,
+				57
 			],
 			"indices": [],
-			"fps": 24,
+			"fps": 10,
 			"anim": "singLEFTmiss",
 			"loop": false,
 			"name": "Bf L Miss"
@@ -104,7 +104,7 @@
 	"image": "characters/COME_ALONG_BF",
 	"position": [
 		0,
-		350
+		0
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -118,5 +118,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }

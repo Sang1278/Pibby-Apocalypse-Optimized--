@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				288,
-				11
-			],
 			"loop": false,
+			"offsets": [
+				241,
+				-92
+			],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Left",
-			"indices": []
+			"indices": [],
+			"name": "Left"
 		},
 		{
-			"offsets": [
-				-62,
-				-206
-			],
 			"loop": false,
+			"offsets": [
+				-152,
+				-289
+			],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down",
-			"indices": []
+			"indices": [],
+			"name": "Down"
 		},
 		{
-			"offsets": [
-				30,
-				375
-			],
 			"loop": false,
+			"offsets": [
+				-76,
+				247
+			],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Up",
-			"indices": []
+			"indices": [],
+			"name": "Up"
 		},
 		{
-			"offsets": [
-				-84,
-				13
-			],
 			"loop": false,
-			"anim": "singRIGHT",
+			"offsets": [
+				-147,
+				-82
+			],
 			"fps": 24,
-			"name": "Right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
 		},
 		{
-			"loop": true,
 			"offsets": [
-				0,
-				0
+				-100,
+				-100
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Finn-sword",
 	"position": [
-		-100,
-		40
+		-80,
+		80
 	],
 	"healthicon": "finn",
 	"flip_x": false,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1.3
+	"scale": 2.6
 }

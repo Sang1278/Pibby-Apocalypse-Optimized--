@@ -2,17 +2,6 @@
 	"animations": [
 		{
 			"offsets": [
-				20,
-				0
-			],
-			"loop": false,
-			"fps": 20,
-			"anim": "",
-			"indices": [],
-			"name": ""
-		},
-		{
-			"offsets": [
 				0,
 				0
 			],
@@ -95,8 +84,8 @@
 	"no_antialiasing": false,
 	"image": "characters/Cumball",
 	"position": [
-		-50,
-		150
+		500,
+		-200
 	],
 	"healthicon": "gumball_fake",
 	"flip_x": false,
@@ -110,5 +99,5 @@
 		-100
 	],
 	"sing_duration": 3,
-	"scale": 1.2
+	"scale": 2.4
 }

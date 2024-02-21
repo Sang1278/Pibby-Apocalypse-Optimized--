@@ -115,7 +115,7 @@
 	"image": "characters/assbf",
 	"position": [
 		-100,
-		470
+		570
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -129,5 +129,5 @@
 		0
 	],
 	"sing_duration": 6,
-	"scale": 2
+	"scale": 4
 }

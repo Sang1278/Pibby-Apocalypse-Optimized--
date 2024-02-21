@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				144,
-				94
+				-208,
+				-148
 			],
 			"loop": true,
 			"fps": 24,
@@ -13,47 +13,47 @@
 		},
 		{
 			"offsets": [
-				426,
-				192
+				108,
+				-48
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Hurt1"
+			"name": "Hurt"
 		},
 		{
 			"offsets": [
-				427,
-				192
+				108,
+				-48
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Hurt1"
+			"name": "Hurt"
 		},
 		{
 			"offsets": [
-				428,
-				253
+				108,
+				-50
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Hurt2"
+			"name": "Hurt"
 		},
 		{
 			"offsets": [
-				427,
-				252
+				207,
+				52
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Hurt2"
+			"name": "Hurt"
 		}
 	],
 	"no_antialiasing": false,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 0.9
+	"scale": 3.8
 }

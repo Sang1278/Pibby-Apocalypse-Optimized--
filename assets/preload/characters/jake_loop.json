@@ -23,7 +23,8 @@
     ],
     "no_antialiasing": false,
     "image": "characters/Jake_Loop",
-    "position": [-400,
+    "position": 
+      [-400,
         100
     ],
     "healthicon": "bf",
@@ -37,5 +38,5 @@
         0, -200
     ],
     "sing_duration": 4,
-    "scale": 2
+    "scale": 4
 }

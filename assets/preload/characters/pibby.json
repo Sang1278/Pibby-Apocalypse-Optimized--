@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-133,
-				-147
+				0,
+				6
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				198,
-				-43
+				316,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				123,
-				-32
+				277,
+				-1
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-87,
-				119
+				39,
+				280
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-79,
-				-43
+				31,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -58,8 +58,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				-100,
-				-87
+				45,
+				69
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				33,
-				40
+				166,
+				186
 			],
 			"anim": "cmon",
 			"fps": 24,
@@ -80,8 +80,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				112,
-				-79
+				282,
+				-38
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -91,8 +91,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-73,
-				-54
+				57,
+				-2
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -102,8 +102,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-89,
-				116
+				56,
+				274
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -113,8 +113,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				193,
-				-47
+				314,
+				108
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -125,8 +125,8 @@
 	"no_antialiasing": false,
 	"image": "characters/pibby",
 	"position": [
-		10,
-		340
+		150,
+		490
 	],
 	"healthicon": "pibby",
 	"flip_x": false,
@@ -136,8 +136,8 @@
 		170
 	],
 	"camera_position": [
-		-420,
-		-20
+		-550,
+		-160
 	],
 	"sing_duration": 5,
 	"scale": 2

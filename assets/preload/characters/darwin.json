@@ -1,140 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Darwin Idle"
+		},
+		{
 			"offsets": [
 				83,
 				-5
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Darwin left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Darwin left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-35,
 				-17
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Darwin right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Darwin right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-14,
 				-67
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Darwin down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Darwin down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-28,
 				74
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Darwin up",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				-32
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "Down-miss0"
-		},
-		{
-			"offsets": [
-				82,
-				2
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "Left-Miss0"
-		},
-		{
-			"offsets": [
-				-34,
-				90
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "Up-miss0"
-		},
-		{
-			"offsets": [
-				-30,
-				10
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Right-miss0"
-		},
-		{
-			"loop": true,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "Darwin Idle",
-			"indices": [
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12
-			]
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [
-				12,
-				13,
-				14,
-				15,
-				16,
-				17,
-				18,
-				19,
-				20,
-				21,
-				22,
-				22
-			],
-			"fps": 24,
-			"anim": "idle-blink",
-			"loop": false,
-			"name": "Darwin Idle"
+			"name": "Darwin up"
 		}
 	],
 	"no_antialiasing": false,
@@ -155,5 +74,5 @@
 		-70
 	],
 	"sing_duration": 4,
-	"scale": 1.5
+	"scale": 3.0
 }

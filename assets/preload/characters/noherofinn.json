@@ -115,7 +115,7 @@
 	"image": "characters/midfin",
 	"position": [
 		-70,
-		20
+	 220
 	],
 	"healthicon": "finnbad",
 	"flip_x": false,
@@ -126,8 +126,8 @@
 	],
 	"camera_position": [
 		140,
-		210
+		110
 	],
 	"sing_duration": 3.8,
-	"scale": 1
+	"scale": 2
 }

@@ -80,7 +80,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-31,
+				109,
 				54
 			],
 			"anim": "singUP",
@@ -103,8 +103,8 @@
 	"no_antialiasing": false,
 	"image": "characters/cropbf",
 	"position": [
-		90,
-		420
+		190,
+		470
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -114,9 +114,9 @@
 		209
 	],
 	"camera_position": [
-		80,
-		-80
+		200,
+		-100
 	],
 	"sing_duration": 4,
-	"scale": 1.4
+	"scale": 2.5
 }

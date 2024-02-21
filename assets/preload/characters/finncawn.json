@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
 			"loop": true,
-			"name": "FInn Idle"
+			"offsets": [
+				5,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FInn Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				21,
-				-19
+				-69
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "FInn Left"
+			"fps": 24,
+			"name": "FInn Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-17
+				-67
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "FInn Down"
+			"fps": 24,
+			"name": "FInn Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-4,
-				10
+				-40
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "FInn Up"
+			"fps": 24,
+			"name": "FInn Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-10,
-				-7
+				-37
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "FInn Right"
+			"fps": 24,
+			"name": "FInn Right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/CAWM_FINN",
 	"position": [
-		0,
-		50
+		100,
+		450
 	],
 	"healthicon": "finn",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		179
 	],
 	"camera_position": [
-		0,
-		100
+		-110,
+		-60
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }

@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				157,
-				3
+				55,
+				-95
 			],
 			"loop": false,
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				25,
-				45
+				-40
 			],
 			"loop": false,
 			"fps": 24,
@@ -25,7 +25,7 @@
 		{
 			"offsets": [
 				15,
-				-131
+				-232
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				114,
-				306
+				15,
+				208
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-14,
-				-48
+				-115,
+				-148
 			],
 			"loop": true,
 			"fps": 20,
@@ -62,7 +62,7 @@
 		-50,
 		150
 	],
-	"healthicon": "jake",
+	"healthicon": "icon-jake",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -74,5 +74,5 @@
 		-10
 	],
 	"sing_duration": 3.5,
-	"scale": 1
+	"scale": 2
 }
