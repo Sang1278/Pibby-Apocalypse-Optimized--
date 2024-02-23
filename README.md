@@ -13,11 +13,12 @@
 
 ### Optimization Credits
 
-* [SangMzG](https://youtube.com/@sangmarezg) (new channel) - Did all of the optimization - Sprites , backrounds , etc.
+* [SangMzG](https://youtube.com/@sangmarezg) (new channel) - Did all of the optimization(A walking W) - Sprites
+* , backrounds, etc.
 
 ### Special Thanks
 * [MAJigsaw](https://github.com/MAJigsaw77) - AndroidTools Creator
-* [HiIdk](https:/youtube.com/@Idk_Yee)  ~Why am i Here?~ - Imported some of the optimized assets into this repository with the help of @SangMzG.
+* [HiIdk](https://youtube.com/@Idk_Yee)  ~Why am i Here?~ - Imported some of the optimized assets into this repository with the help of @SangMzG.
 
 # OG Pibby Apocalypse Source Code Things:
 aaron- yes this is legit the source code, most of it is a mess, and i dont think any of us expect this to be salvageable,
