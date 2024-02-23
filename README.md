@@ -13,7 +13,7 @@
 
 ### Optimization Credits
 
-* [SangMzG](https://youtube.com/@sangmarezg) (new channel) - Did all of the optimization - Sprites,backrounds,etc.
+* [SangMzG](https://youtube.com/@sangmarezg) (new channel) - Did all of the optimization - Sprites , backrounds , etc.
 
 ### Special Thanks
 * [MAJigsaw](https://github.com/MAJigsaw77) - AndroidTools Creator
