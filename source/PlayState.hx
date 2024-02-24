@@ -1266,7 +1266,7 @@ class PlayState extends MusicBeatState
  
 		if(ClientPrefs.shaders) {
 			camHUD.setFilters([new ShaderFilter(pibbyFNF),new ShaderFilter(chromFNF)]);
-			camGame.setFilters([new ShaderFilter(pibbyFNF),new ShaderFilter(chromFNF)]);
+			camGame.setFilters([new ShaderFilter(pibbyFNF)]);//,new ShaderFilter(chromFNF)]);
             for (i in 0...opponentStrums.length) {
                 opponentStrums.members[i].shader = distortFNF;
             }
